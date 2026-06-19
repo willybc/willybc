@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3500&color=39D353&center=true&vCenter=true&multiline=true&width=550&height=85&lines=Full+Stack+Developer;Angular+-+React;Laravel+-+FastAPI+-+Spring+Boot)](https://willybc.github.io/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3500&color=39D353&center=true&vCenter=true&multiline=true&width=550&height=85&lines=Software+Developer;Angular+-+React;Laravel+-+FastAPI+-+Spring+Boot)](https://willybc.github.io/)
 
 </div>
 
